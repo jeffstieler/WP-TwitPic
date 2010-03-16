@@ -1,0 +1,3 @@
+Modified version of http://www.digimantra.com/technology/php/post-pictures-on-twitpic-api-using-php/
+
+Uses the WordPress HTTP request methods instead of cURL directly.
